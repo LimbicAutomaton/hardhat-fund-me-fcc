@@ -5,7 +5,7 @@ const networkConfig = {
     // Price Feed Address, values can be obtained at https://docs.chain.link/docs/reference-contracts
     5: {
         name: "goerli",
-        ethUsdPriceFeed: "0xD4a33860578De61DBAbDc8BFdb98FD742fA7028e",
+        ethUsdPriceFeed: "f4c7ff3c-ee8d-41dc-909f-22cfd70da378",
     },
 }
 
